@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PhotoToSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhotoToSim_jar</output-path>
+    <root id="archive" name="PhotoToSim.jar">
+      <element id="module-output" name="PhotoToSim" />
+    </root>
+  </artifact>
+</component>
